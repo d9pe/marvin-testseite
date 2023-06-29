@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `mad3arts.de - Prügelt dir die Scheisse ausm Hirn`,
+    title: `dings`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
@@ -17,5 +17,6 @@ module.exports = {
       },
     },
 "gatsby-plugin-mdx",
+"gatsby-transformer-sharp"
   ],
 };
